@@ -11,7 +11,7 @@
 
 > Every expert was a newbie once. You don't need to learn everything. Just enough knowledge for your next quest.
 
-Every expert started as a beginner. We cannot know every field, and we should not have to become experts every time we take on something new.
+Every expert was a newbie once. We cannot know every field, and we should not have to become experts every time we take on something new.
 
 But working well with AI takes some understanding of what we want to create. We need enough domain knowledge to know what to ask for, which constraints matter, and whether the result is what we intended.
 
@@ -32,6 +32,26 @@ Call N2T when you need it and receive a one-off guide. It does not create learni
 ## Explore the guide
 
 Your quest stays at the top. Below it, concept cards are grouped into **Essential now**, **Useful next**, and **Can wait**. Select a card to open a short explanation, relevant images, video links, and real websites in a modal. The downloadable HTML works without a server; if an inline preview blocks interactions, open it in your browser.
+
+## How do I ask?
+
+This guide was created with the following prompt:
+
+```text
+$n2t I’m editing a video with AI, but I don’t know much about transitions—what should I know to describe the effects I want?
+```
+
+### The result
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="assets/examples/n2t-gallery-main.jpg"><img src="assets/examples/n2t-gallery-main.jpg" alt="Concept gallery" width="100%"></a><br><sub>Concept gallery</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-cross-dissolve-detail.jpg"><img src="assets/examples/n2t-cross-dissolve-detail.jpg" alt="Concept detail" width="100%"></a><br><sub>Concept detail</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-ai-prompt-example.jpg"><img src="assets/examples/n2t-ai-prompt-example.jpg" alt="AI prompt & references" width="100%"></a><br><sub>AI prompt & references</sub></td>
+  </tr>
+</table>
+
+Reference image shown in the screenshot: [A2o dissolve — grm_wnr](https://commons.wikimedia.org/wiki/File:A2o_dissolve.ogv), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 ## How references are selected
 

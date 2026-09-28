@@ -11,7 +11,7 @@
 
 > Every expert was a newbie once. You don't need to learn everything. Just enough knowledge for your next quest.
 
-専門家も、最初は初心者でした。あらゆる分野を知り尽くすことはできませんし、新しいことを始めるたびに、その道の専門家になる必要もありません。
+専門家も、かつてはニュービーでした。あらゆる分野を知り尽くすことはできませんし、新しいことを始めるたびに、その道の専門家になる必要もありません。
 
 ただ、AIにうまく仕事を任せるには、作りたいものについての基礎知識が必要です。何を頼むのか、どんな条件を伝えるのか、できあがったものが意図どおりか。その判断には、分野の知識が役立ちます。
 
@@ -33,6 +33,26 @@ N2Tは、その最初の一歩を支えるために作りました。**すべて
 ## 気になるカードから読む
 
 上部に今回のクエスト、その下に**最初に知っておきたいこと・次に学ぶこと・後でよいこと**をカードで並べます。カードを開くと、短い説明と関連する画像・動画・サイトをモーダルで確認できます。プレビューで操作できない場合は、HTMLファイルをダウンロードしてブラウザーで開いてください。
+
+## どう聞けばいい？
+
+次の依頼文で作成したガイドです。
+
+```text
+$n2t I’m editing a video with AI, but I don’t know much about transitions—what should I know to describe the effects I want?
+```
+
+### できあがったガイド
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="assets/examples/n2t-gallery-main.jpg"><img src="assets/examples/n2t-gallery-main.jpg" alt="概念ギャラリー" width="100%"></a><br><sub>概念ギャラリー</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-cross-dissolve-detail.jpg"><img src="assets/examples/n2t-cross-dissolve-detail.jpg" alt="概念の詳しい説明" width="100%"></a><br><sub>概念の詳しい説明</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-ai-prompt-example.jpg"><img src="assets/examples/n2t-ai-prompt-example.jpg" alt="AIへの依頼例と参考資料" width="100%"></a><br><sub>AIへの依頼例と参考資料</sub></td>
+  </tr>
+</table>
+
+スクリーンショット内の参考画像: [A2o dissolve — grm_wnr](https://commons.wikimedia.org/wiki/File:A2o_dissolve.ogv), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 ## 参考資料の選び方
 

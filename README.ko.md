@@ -34,6 +34,26 @@ N2T는 그 출발점을 돕기 위해 만들었습니다. **모든 것을 배우
 
 상단에는 지금 하려는 퀘스트가, 아래에는 **먼저 알아야 할 것 · 다음으로 볼 것 · 나중에 봐도 될 것**으로 나눈 카드가 표시됩니다. 카드를 누르면 모달이 열리고, 짧은 설명과 관련 이미지·영상·사이트를 함께 볼 수 있습니다. 미리보기에서 클릭이 안 된다면 HTML 파일을 내려받아 브라우저로 열어 주세요.
 
+## 어떻게 질문하나요?
+
+아래 프롬프트로 만든 가이드입니다.
+
+```text
+$n2t I’m editing a video with AI, but I don’t know much about transitions—what should I know to describe the effects I want?
+```
+
+### 이렇게 만들어집니다
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="assets/examples/n2t-gallery-main.jpg"><img src="assets/examples/n2t-gallery-main.jpg" alt="개념 갤러리" width="100%"></a><br><sub>개념 갤러리</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-cross-dissolve-detail.jpg"><img src="assets/examples/n2t-cross-dissolve-detail.jpg" alt="개념 상세 설명" width="100%"></a><br><sub>개념 상세 설명</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-ai-prompt-example.jpg"><img src="assets/examples/n2t-ai-prompt-example.jpg" alt="AI 요청 예시와 참고 자료" width="100%"></a><br><sub>AI 요청 예시와 참고 자료</sub></td>
+  </tr>
+</table>
+
+스크린샷에 포함된 참고 이미지: [A2o dissolve — grm_wnr](https://commons.wikimedia.org/wiki/File:A2o_dissolve.ogv), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ## 참고 자료를 고르는 기준
 
 - **이미지:** 개념을 이해하는 데 도움이 되는 실제 참고 이미지를 모달 안에 표시하고 출처와 볼 부분을 함께 적습니다. 자체 제작 도식은 참고 이미지와 구분합니다. 표시할 수 있는 이미지를 찾지 못했다면 그 이유를 밝힙니다.

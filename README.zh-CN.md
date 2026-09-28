@@ -11,7 +11,7 @@
 
 > Every expert was a newbie once. You don't need to learn everything. Just enough knowledge for your next quest.
 
-每位专家都曾是新手。我们不可能懂得所有领域的知识，也不必每做一件新事，就先成为那个领域的专家。
+每位专家都曾是小白（newbie）。我们不可能懂得所有领域的知识，也不必每做一件新事，就先成为那个领域的专家。
 
 但要让 AI 把事情做好，我们仍然需要对想做的东西有一些基本了解：该提出什么要求，哪些条件不能漏，结果是否符合预期。这些判断都离不开领域知识。
 
@@ -33,6 +33,26 @@
 ## 从需要的知识卡片开始
 
 页面顶部是当前任务，下方按**现在必须了解、接下来再看、可以留到以后**分组展示知识卡片。点击卡片，会弹出简短说明和相关图片、视频、网站链接。如果预览中无法点击，请下载 HTML 文件，用浏览器打开。
+
+## 该怎么提问？
+
+下面的指南由这句提示生成。
+
+```text
+$n2t I’m editing a video with AI, but I don’t know much about transitions—what should I know to describe the effects I want?
+```
+
+### 生成结果
+
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="assets/examples/n2t-gallery-main.jpg"><img src="assets/examples/n2t-gallery-main.jpg" alt="概念画廊" width="100%"></a><br><sub>概念画廊</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-cross-dissolve-detail.jpg"><img src="assets/examples/n2t-cross-dissolve-detail.jpg" alt="概念详细说明" width="100%"></a><br><sub>概念详细说明</sub></td>
+    <td width="33%" align="center"><a href="assets/examples/n2t-ai-prompt-example.jpg"><img src="assets/examples/n2t-ai-prompt-example.jpg" alt="AI 提示示例与参考资料" width="100%"></a><br><sub>AI 提示示例与参考资料</sub></td>
+  </tr>
+</table>
+
+截图中使用的参考图片: [A2o dissolve — grm_wnr](https://commons.wikimedia.org/wiki/File:A2o_dissolve.ogv), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
 ## 如何选择参考资料
 
