@@ -1,0 +1,4 @@
+interface:
+  display_name: "N2T — New To This"
+  short_description: "Just enough domain knowledge for your next quest"
+  default_prompt: "Use $n2t to research the domain knowledge I need for my next task and create a focused HTML guide with essential terms and real-world references."
